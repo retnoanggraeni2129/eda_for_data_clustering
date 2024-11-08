@@ -7,9 +7,16 @@ Some of the commonly used techniques and tools in EDA include:
 1. Descriptive Statistics : mean, median, mode, standard deviation, quartiles.
 2. Data Visualization : histograms, scatter plots, box plots, and heatmaps.
 3. Pattern and Anomaly Search : clustering, outlier detection, and trend analysis.
-## When does EDA take place?
-EDA is usually performed before more in-depth data analysis or statistical modeling to ensure that the analysis performed is valid and relevant to the data at hand.
-By conducting a thorough EDA, we can ensure that further analysis is conducted with a solid foundation of understanding of the data, reduce the risk of errors, and improve the quality of analysis results.
+
+## What does EDA take place?
+1. Explanatory Data Analysis (EDA) is a data analysis process that aims to explore and understand the characteristics and patterns of data before conducting further analyses or statistical models. 
+2. EDA typically involves the use of data visualisation, summary statistics, and other techniques to identify relationships, trends, and anomalies in the data.
+
+# Some of the main objectives of EDA include:
+1. Identifying patterns: Looking for patterns and relationships that may exist in the data.
+2. Detecting anomalies: Finding unusual values or outliers that might affect the analysis.
+3. Recognising distributions: Understanding the distribution of variables and their properties (normal, skewed, etc.).
+4. Assist in model selection: The information obtained from EDA can guide the selection of the most appropriate statistical technique or model for the data.
 
 # Introduction to The Dataset
 ## This dataset is a collection of information about nutrition in fast food that is sold in several well-known restaurants. while this data contains 515 rows and 17 columns
